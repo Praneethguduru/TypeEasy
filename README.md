@@ -13,15 +13,6 @@
 - 🎉 Emoji feedback (Poor, Good, Pro)
 - 🖼️ Simple, clean, and responsive GUI
 
----
-
-## 📸 Screenshot
-
-*(Upload your screenshot and rename it to `screenshot.png` for the preview to work)*
-
-<!-- ![TypeEasy Screenshot](screenshot.png) -->
-
----
 
 ## 🚀 How to Run
 
@@ -52,7 +43,7 @@
 
 ```
 typeeasy/
-├── typeeasy.py       # Main Python file (the game)
+├── type_easy.py       # Main Python file (the game)
 ├── logo.png          # Logo image displayed on the UI
 ├── poor.png          # Emoji shown for low performance
 ├── good.png          # Emoji shown for decent performance
@@ -71,15 +62,10 @@ typeeasy/
 
 ---
 
-## 📜 License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+## 👨‍💻 Authors
 
----
-
-## 👨‍💻 Author
-
-Made with 💙 by **[Your Name]**  
+Made with 💙 by **Guduru Praneeth and Kamal Pande**  
 🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)
 
 ---
