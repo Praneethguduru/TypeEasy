@@ -21,7 +21,7 @@
 
 2. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/typeeasy.git
+   git clone https://github.com/Praneethguduru/TypeEasy
    cd typeeasy
    ```
 
