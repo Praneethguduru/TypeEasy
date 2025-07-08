@@ -63,7 +63,7 @@ typeeasy/
 ---
 
 
-## 👨‍💻 Authors
+## 👨‍💻 
 
 Made with 💙 by **Guduru Praneeth and Kamal Pandey**  
 🔗 GitHub: [https://github.com/your-username](https://github.com/Praneethguduru)
