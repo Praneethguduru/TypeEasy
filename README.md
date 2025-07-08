@@ -34,7 +34,7 @@
 
 4. **Run the app**
    ```bash
-   python typeeasy.py
+   python type_easy.py
    ```
 
 ---
