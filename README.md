@@ -65,7 +65,7 @@ typeeasy/
 
 ## 👨‍💻 Authors
 
-Made with 💙 by **Guduru Praneeth and Kamal Pande**  
-🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)
+Made with 💙 by **Guduru Praneeth and Kamal Pandey**  
+🔗 GitHub: [https://github.com/your-username](https://github.com/Praneethguduru)
 
 ---
